@@ -9,7 +9,7 @@
 - 👋 Hola, Mi nombre es @Jesus
 - 👀 Me interesa aprender nuevos temas
 - 🌱 Me apasiona mi estilo de vida
-- 📫 Me encuentro estudiante 
+- 📫 Me encuentro estudiando - 9no Ciclo
 
 <!---
 x-Malware/x-Malware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
